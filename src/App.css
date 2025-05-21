@@ -28,6 +28,23 @@
   color: #61dafb;
 }
 
+.image1 {
+  width: 150px; /* Set the width of the image */
+  height: auto; /* Maintain aspect ratio */
+  margin-top: 20px;
+  border-radius: 10px; /* Rounded corners */
+}
+
+body {
+  background-color: #3d8536;  /* Light gray background color */
+}
+
+div {
+  border: 6px double #4CAF50; /* Double border */
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
